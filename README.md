@@ -1,12 +1,12 @@
-# docker-taskjuggler
+# tj3
 
-[TaskJuggler](http://www.taskjuggler.org) in [Docker](https://www.docker.com/).
+[TaskJuggler](http://www.taskjuggler.org) locked up in [Docker](https://www.docker.com/).
 
 Based on [Alpine Linux](https://alpinelinux.org/), so the image is quite small.
 
 ## Usage:
 
-```sh
+```
 $ ./tj3.sh tj3 yourproject.tjp
 ```
 
