@@ -1,4 +1,4 @@
-FROM alpine:3.11.6
+FROM alpine:3.12.3
 MAINTAINER Klaus Umbach <klaus+docker@uxix.de>
 
 RUN apk add --no-cache ruby && \
